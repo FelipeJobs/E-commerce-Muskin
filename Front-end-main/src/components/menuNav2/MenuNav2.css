@@ -1,0 +1,19 @@
+.text-decoration-none {
+    text-decoration: none !important;
+}
+
+.bnt-nav {
+    padding: 0 !important;
+    color: white;
+    font-size: 20px !important;
+}
+
+.icon {
+    font-size: 26px !important;
+    padding-bottom: 3px;
+}
+
+.icon:hover {
+    transform: rotateZ(45deg) !important;
+    transition: 0.6s ease-out !important;
+}

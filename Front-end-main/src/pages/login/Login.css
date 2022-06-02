@@ -1,0 +1,105 @@
+.backgroundLogin{
+    background-color: #E4D8D4;
+    justify-content: flex-start;
+    width: 100vw;
+    min-height: 861px;
+}
+
+.text-decorator-none {
+    text-decoration: none;
+}
+
+.teste-b:focus{
+    outline: none !important;
+}
+
+
+.img-log{
+    display: inline;
+    justify-content: flex-start!important;
+    align-content: center;
+    margin-bottom: 20px;
+
+    width: 470px; 
+    height: 265px;
+}
+.gridLogin{
+    justify-content: center!important;
+    margin-left: 13vw!important;
+    width: 36.6vw;
+    height: 100vh;
+}
+
+.linhasLogin{
+    display: flex;
+    justify-content: space-around;
+    width: 180px!important;
+    height: 100vh;
+    min-height: 100vh;
+}
+
+.vl {
+    width: 30px;
+    height: 100vh;
+    min-height: 861px;
+    background-color:  #DA781D;
+
+}
+
+.caixa-login {
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center;
+    margin: 0 !important;
+
+    background-color: #AE988D;
+    border-radius: 15px; 
+    width: 38vw; 
+    height: 500px;
+
+}
+
+.texto1 {
+    font-weight: bold !important;
+}
+
+.bnt-cancelar {
+    display: flex;
+    justify-content: center;
+    gap: 15px !important;
+}
+
+.login-cad1 {
+    color: #785846;
+    font-size: 18px !important;
+}
+
+.login-cad2 {
+    color: #A64208;
+    font-size: 18px !important;
+}
+
+.login-text {
+    color: #B6917B;
+}
+
+.btn-login {
+    width: 150px !important;
+    background-color: #E5E5E5 !important;
+    color: #B6917B !important;
+    border-radius: 17px !important;
+    text-transform: none !important;
+}
+
+.form-back {
+    padding: 0px !important;
+    justify-content: center !important;
+    align-items: center !important;
+    align-content: center !important;
+    background-color: #AE988D !important;
+    border-radius: 10px !important;
+}
+
+textarea:focus, input:focus{
+    outline: none;
+}

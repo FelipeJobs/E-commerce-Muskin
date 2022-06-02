@@ -1,0 +1,142 @@
+.tituloCadastro {
+    font-family: Jacques Francois !important;
+    font-weight: bold !important;
+    color: rgba(246, 237, 232, 1);
+    font-size: 20px !important;
+    margin-top: 20px !important;
+    margin-bottom: 20px !important;
+}
+
+.linkTexto {
+    text-decoration: none !important;
+
+}
+.linhasCadastro{
+    margin-left: 30vw!important;
+}
+
+.backgroundCadastro {
+    /* background-image: url(https://i.imgur.com/gimcsi1.jpg) !important; */
+    /* background-repeat: no-repeat; */
+    min-width: 60vw!important;
+    min-height: 40vh!important;
+    background-position: center;
+    background-color: rgba(120, 88, 70, 0.29);
+
+}
+
+.backPage {
+    background-color: #E5E5E5 !important;
+}
+
+.textField {
+    background: #f1f1f1 !important;
+  
+    border-radius: 3px;
+
+}
+
+.btnCancelar {
+
+    font-family: Jacques Francois !important;
+    font-size: 20px !important;
+    font-weight: 400px !important;
+    background-color: rgba(229, 229, 229, 1) !important;
+    border-radius: 20px !important;
+    color: rgba(182, 145, 123, 1) !important;
+    padding: 8px 32px !important;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+    margin-left: 20px !important;
+    margin-top: 20px !important;
+}
+
+.btnCadastrar {
+
+    font-family: Jacques Francois !important;
+    font-size: 20px !important;
+    font-weight: 400px !important;
+    background-color: rgba(229, 229, 229, 1) !important;
+    border-radius: 20px !important;
+    color: rgba(182, 145, 123, 1) !important;
+    padding: 8px 32px !important;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+    margin-left: 185px !important;
+    margin-top: 20px !important;
+
+}
+
+.form1 {
+
+    position: relative;
+    width: 640px !important;
+    bottom: 10%;
+    background: rgba(120, 88, 70, 0.5);
+    mix-blend-mode: normal;
+    border-radius: 20px;
+    margin-top: -900px !important;
+    margin-left: 500px !important;
+    margin-right: 690px !important;
+    min-height: 100vh;
+
+}
+
+.linhaVertical {
+
+    position: relative;
+    width: 700px;
+    height: 1033px;
+    border-right: 29px solid  rgba(166, 66, 8, 1);
+    right: 260px;
+    margin-left: -160px;  
+    left: 20px;
+    margin-top: 0px
+    
+    
+}
+
+
+.linhaVertical2 {
+
+        position: relative;
+        width: 700px;
+        height: 1033px;
+        border-right: 29px solid rgba(218, 120, 29, 1);
+        margin-right: 20px !important;  
+        margin-left: 40px; 
+        margin-top: 0px
+}
+
+.linhaVertical3 {
+
+    position: relative;
+    width: 700px;
+    height: 1033px;
+    border-right: 29px solid  rgba(64, 12, 8, 1);
+    margin-left: 40px;  
+    margin-top: 0px; 
+}
+
+.subTit {
+
+    text-align: left !important;
+    font-family: Jacques Francois !important;
+    font-weight: bold !important;
+    color: rgba(246, 237, 232, 1);
+    font-size: 15px !important;
+    padding-top: 10px;
+
+} 
+
+  .img-cad{
+    display: flex;
+    justify-content: flex-start !important;
+    align-content: center;
+    padding-bottom: 5px;
+    padding-right: 20px;
+    margin-top: -800px !important;
+    margin-left: 355px !important;    
+}

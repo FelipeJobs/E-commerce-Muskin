@@ -1,0 +1,85 @@
+.containerCategoria {
+    display: inline-block;
+    justify-content: center!important;
+}
+
+.caixaCategoria {
+    width: 70vw;
+    height: 455px;
+    margin-bottom: 10vh;
+    justify-content: flex-end;
+    text-align: center;
+
+    background: rgba(120, 88, 70, 0.29);
+    mix-blend-mode: normal;
+    border-radius: 10px;
+}
+
+.tituloCategoria {
+    margin: 20px 0px!important;
+    color: #A64208 !important;
+}
+
+.subtituloCategoria {
+
+    margin: 45px 0px 10px 7vw!important;
+
+    font-family: 'Jacques Francois'!important;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px!important;
+    line-height: 33px!important;
+    text-align: left;
+
+    color: #B6917B;
+}
+.subtituloCategoria2 {
+
+    margin: 20px 0px 20px 7vw!important;
+
+    font-family: 'Jacques Francois'!important;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px!important;
+    line-height: 33px!important;
+    text-align: left;
+
+    color: #B6917B;
+}
+.nomeCategoria {
+    width: 56vw;
+    height: 55px;
+
+    justify-content: center;
+
+    background: #f1f1f1 !important;
+    mix-blend-mode: screen;
+    border-radius: 3px;
+
+}
+
+.descricaoCategoria {
+    width: 56vw;
+    height: 130px;
+
+    justify-content: center;
+
+    background: #f1f1f1 !important;
+    mix-blend-mode: screen;
+    border-radius: 3px;
+
+}
+
+.btnCategoria {
+    font-family: 'Jacques Francois'!important;
+    font-style: normal;
+
+    margin-top: 30px!important;
+    border-radius: 20px!important;
+
+    width: 217px;
+    height: 62px;
+
+    color: #B6917B!important;
+    font-size: 20px!important;
+}

@@ -1,0 +1,27 @@
+img {
+    width: 1246px;
+    height: 500px;
+    object-fit: cover;
+}
+
+/* square buttons */
+.rec.rec-arrow {
+    background-color: #C07A51!important;
+    color: #785846;
+}
+.rec.rec-arrow:hover {
+    background-color: #C07A51!important;
+    color: #785846!important;
+}
+.rec.rec-arrow:disabled {
+    background-color: #C07A51!important;
+    color: #785846!important;
+    visibility: hidden;
+}
+button.rec-dot{
+    background-color: #C07A51;
+    box-shadow: 0 0 1px 3px #785846;
+}
+button.rec-dot:hover, button.rec-dot:active, button.rec-dot:focus  {
+    box-shadow: 0 0 1px 3px #e9b89c;
+}

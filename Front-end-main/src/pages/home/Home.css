@@ -1,0 +1,30 @@
+
+.caixa{
+    background-color: #FAF6F4;
+}
+
+.tituloHome{
+    
+    font-weight: bold !important;
+    color: white;
+    font-family: Roboto !important; 
+    margin-left: -160px !important;   
+    font-size: "10px";
+}
+
+.imagem{
+    cursor: pointer;
+}
+
+.teste{
+    padding: 5px;
+}
+
+.nomeProduto{
+    font-family: jaldi !important;
+    font-size: "20px" !important;
+    color: "#785846" !important;
+}
+.cardsHome{
+    margin-left: 5vw!important;
+}

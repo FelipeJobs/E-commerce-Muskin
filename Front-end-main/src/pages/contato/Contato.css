@@ -1,0 +1,37 @@
+.avatares {
+    font-size: 20px;
+    font-family: 'Jacques Francois'!important;
+    font-weight: bold!important;
+    color: #B6917B;
+}
+
+.tituloContato {
+    font-family: 'Jacques Francois'!important;
+    font-style: normal;
+    padding-top: 30px;
+    text-align: center;
+    color: #A64208 !important;
+}
+
+.textoContato {
+    font-family: 'Jacques Francois'!important;
+    font-style: normal;
+    font-size: 25px!important;
+    padding-top: 15px;
+    padding-bottom: 20px;
+    text-align: center;
+    color: #B6917B !important;
+}
+
+.subtituloContato {
+    font-family: 'Jacques Francois'!important;
+    font-style: normal;
+    font-size: 30px!important;
+    text-align: center;
+    color: #A64208 !important;
+    margin-bottom: 50px!important;
+}
+
+.caixa {
+    padding-bottom: 10px;
+}
